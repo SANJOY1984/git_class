@@ -1,0 +1,6 @@
+git init
+git add -A
+git status
+git commit -m "DA file"
+git remote add origin https://github.com/SANJOY1984/git_class.git
+git push origin master
